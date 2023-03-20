@@ -15,8 +15,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6283819082780'] //ur owner number
-global.ownername = 'lucyfxr' //ur owner name
+global.owner = ['6283819082780','6283144670590'] //ur owner number
+global.ownername = 'lucyfxr','Ryutenzo' //ur owner name
 global.ytname = "YT: Not Found" //ur yt chanel name
 global.socialm = "GitHub: Ryutenzo" //ur github or insta name
 global.location = "India, Indonesia, USA" //ur location
@@ -30,7 +30,7 @@ global.websitex = "https://Instagram.com/ryutenzo_" //ur website to be displayed
 global.botscript = 'https://github.com/Ryutenzo/DanteBot-MD' //script link
 global.themeemoji = "⚔️" //ur theme emoji
 global.packname = "" //ur sticker watermark packname
-global.author = "fuck you bitch  \n-ryutenzo" //ur sticker watermark author
+global.author = "Made By Ryutenzo" //ur sticker watermark author
 global.wm = "Dante Bot Inc." //ur watermark
 
 // Other
